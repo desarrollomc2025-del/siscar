@@ -1,0 +1,12 @@
+C:\aplicaciones\srvSiscar\libSiscar\bin\Debug\net7.0\libSiscar.deps.json
+C:\aplicaciones\srvSiscar\libSiscar\bin\Debug\net7.0\libSiscar.dll
+C:\aplicaciones\srvSiscar\libSiscar\bin\Debug\net7.0\libSiscar.pdb
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.GeneratedMSBuildEditorConfig.editorconfig
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.AssemblyInfoInputs.cache
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.AssemblyInfo.cs
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.csproj.CoreCompileInputs.cache
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.sourcelink.json
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.dll
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\refint\libSiscar.dll
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\libSiscar.pdb
+C:\aplicaciones\srvSiscar\libSiscar\obj\Debug\net7.0\ref\libSiscar.dll

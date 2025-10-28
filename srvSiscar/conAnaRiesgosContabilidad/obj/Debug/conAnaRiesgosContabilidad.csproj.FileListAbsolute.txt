@@ -1,0 +1,46 @@
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe.config
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.pdb
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.AssemblyReference.cache
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.CoreCompileInputs.cache
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.pdb
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.dll
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.xml
+C:\aplicaciones\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRi.87E8CD07.Up2Date
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe.config
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.AssemblyReference.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRi.87E8CD07.Up2Date
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRi.87E8CD07.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\conAnaRiesgosContabilidad.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRi.87E8CD07.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosContabilidad\obj\Debug\conAnaRiesgosContabilidad.pdb

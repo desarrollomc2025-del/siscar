@@ -1,0 +1,50 @@
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.pdb
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.dll
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.xml
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.AssemblyReference.cache
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.CoreCompileInputs.cache
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.pdb
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Program.cs
+C:\aplicaciones\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRi.E6ABA67A.Up2Date
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Program.cs
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.AssemblyReference.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRi.E6ABA67A.Up2Date
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Program.cs
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRi.E6ABA67A.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Program.cs
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\conAnaRiesgosAuxiliares.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRi.E6ABA67A.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\conAnaRiesgosAuxiliares\obj\Debug\conAnaRiesgosAuxiliares.pdb

@@ -1,0 +1,51 @@
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.AssemblyReference.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\Actualiz.EBA4E093.Up2Date
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.pdb
+C:\Users\feggarcia\Documents\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\Actualiz.EBA4E093.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub2\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\ActualizaConPeriodos.pdb
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Dapper.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.AssemblyReference.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe.config
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.csproj.CoreCompileInputs.cache
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\Actualiz.EBA4E093.Up2Date
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.exe
+C:\Users\feggarcia\OneDrive - FENACOAC, R.L\Documentos\GitHub\srvSiscar\ActualizaConPeriodos\obj\Debug\ActualizaConPeriodos.pdb
